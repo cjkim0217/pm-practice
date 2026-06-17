@@ -1,5 +1,5 @@
-yam
-name: "Hello CI"
+yaml
+name:"Hello CI"
 on:
   push:
 jobs:
