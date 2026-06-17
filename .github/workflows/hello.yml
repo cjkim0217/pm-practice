@@ -3,6 +3,6 @@ name:Hello CI
 on:push
 jobs:
   say-hello:
-    runs-on: ubuntu-latest
+    runs-on:ubuntu-latest
     steps:
-      - run: echo "코드가 올라오면 자동으로 이 메시지가 실행됩니다"
+      - run:echo "코드가 올라오면 자동으로 이 메시지가 실행됩니다"
