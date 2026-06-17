@@ -1,4 +1,5 @@
-yamlname: Hello CI
+yaml
+name: Hello CI
 on: push
 jobs:
   say-hello:
