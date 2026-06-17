@@ -1,4 +1,4 @@
-yaml
+yam
 name: "Hello CI"
 on:
   push:
