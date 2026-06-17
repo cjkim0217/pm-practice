@@ -1,6 +1,6 @@
 yaml
-name: Hello CI
-on: push
+name:Hello CI
+on:push
 jobs:
   say-hello:
     runs-on: ubuntu-latest
